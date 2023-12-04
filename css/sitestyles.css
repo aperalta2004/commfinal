@@ -1,0 +1,48 @@
+@charset "UTF-8";
+.conatiner {
+    width: 100%;
+}
+.nav {
+    width: 20%;
+    min-width: 0px;
+    float: left;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: small;
+    text-decoration: none;
+    background-color: #7791B1;
+    text-align: center;
+}
+nav {
+}
+.image {
+    width: 100%;
+}
+.container {
+    width: 100%;
+}
+.imagediv {
+    width: 100%;
+    display: block;
+}
+.conatiner .imagediv .imagediv {
+}
+.textdiv {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: small;
+    color: #14161A;
+    background-color: #FFFFFF;
+    padding-top: 60px;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-bottom: 60px;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.footer {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 10px;
+    color: #494949;
+    text-align: center;
+}
